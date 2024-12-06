@@ -5,7 +5,7 @@ This script will automate the setup of a PHP development box
 ## Includes
 - Ubuntu 22.04.5 (LTS)
 - Nginx latest
-- PHP 8.2
+- PHP 8.3
 - MySQL latest
 - Composer
 
